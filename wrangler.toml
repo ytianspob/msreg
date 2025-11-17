@@ -1,0 +1,13 @@
+name = "microsoft-account-creator"
+main = "worker.js"
+compatibility_date = "2025-05-09"
+
+[vars]
+MS_TENANT_ID = "xxx"
+MS_CLIENT_ID = "xxx"
+MS_CLIENT_SECRET = "xxx"
+MS_SKU_ID = "xxx"
+MS_DOMAIN = "example.com"
+TURNSTILE_SITE_KEY = "xxx"
+TURNSTILE_SECRET_KEY = "xxx"
+FORM_VERIFICATION_CODE = "xxx"
